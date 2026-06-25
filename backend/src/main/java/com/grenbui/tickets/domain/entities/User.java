@@ -1,4 +1,4 @@
-package com.grenbui.tickets.domain;
+package com.grenbui.tickets.domain.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
