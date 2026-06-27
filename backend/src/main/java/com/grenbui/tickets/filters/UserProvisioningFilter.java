@@ -1,6 +1,6 @@
 package com.grenbui.tickets.filters;
 
-import com.grenbui.tickets.domain.User;
+import com.grenbui.tickets.domain.entities.User;
 import com.grenbui.tickets.repositories.UserRepository;
 
 import jakarta.servlet.FilterChain;
