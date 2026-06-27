@@ -1,6 +1,6 @@
 package com.grenbui.tickets.repositories;
 
-import com.grenbui.tickets.domain.User;
+import com.grenbui.tickets.domain.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
